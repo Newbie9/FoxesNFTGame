@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Berlin';
+    src: local('Berlin'), url(./assets/fonts/BRLNSR.TTF) format('truetype');
+  }
+
+
+*{
+    font-family: "Berlin";
+}
+
+.headlinestroke{
+  -webkit-text-stroke-width: medium;
+  -webkit-text-stroke-color: rgb(255, 115, 0);
+}

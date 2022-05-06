@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ac418490.chunk.css",
+    "main.js": "/static/js/main.0cf48802.chunk.js",
+    "main.js.map": "/static/js/main.0cf48802.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.aadab0ed.js",
+    "runtime-main.js.map": "/static/js/runtime-main.aadab0ed.js.map",
+    "static/js/2.3e384628.chunk.js": "/static/js/2.3e384628.chunk.js",
+    "static/js/2.3e384628.chunk.js.map": "/static/js/2.3e384628.chunk.js.map",
+    "static/js/3.2eac92eb.chunk.js": "/static/js/3.2eac92eb.chunk.js",
+    "static/js/3.2eac92eb.chunk.js.map": "/static/js/3.2eac92eb.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.ac418490.chunk.css.map": "/static/css/main.ac418490.chunk.css.map",
+    "static/js/2.3e384628.chunk.js.LICENSE.txt": "/static/js/2.3e384628.chunk.js.LICENSE.txt",
+    "static/media/11.1159712f.png": "/static/media/11.1159712f.png",
+    "static/media/20.647602cd.png": "/static/media/20.647602cd.png",
+    "static/media/24.56aec98a.png": "/static/media/24.56aec98a.png",
+    "static/media/3.6d791345.png": "/static/media/3.6d791345.png",
+    "static/media/App.css": "/static/media/BRLNSR.dc095e60.TTF",
+    "static/media/SlyFox.30b16d03.png": "/static/media/SlyFox.30b16d03.png",
+    "static/media/attack-icon.ebfd5d9b.png": "/static/media/attack-icon.ebfd5d9b.png",
+    "static/media/avalanche.7272e61c.png": "/static/media/avalanche.7272e61c.png",
+    "static/media/background.86bc8187.png": "/static/media/background.86bc8187.png",
+    "static/media/backgroundMobile.fb28cb17.png": "/static/media/backgroundMobile.fb28cb17.png",
+    "static/media/confet.0dbd08ba.png": "/static/media/confet.0dbd08ba.png",
+    "static/media/fight_img.db7fa07a.png": "/static/media/fight_img.db7fa07a.png",
+    "static/media/hitrate-icon.57b5d1df.png": "/static/media/hitrate-icon.57b5d1df.png",
+    "static/media/hunt_img.66e1f804.png": "/static/media/hunt_img.66e1f804.png",
+    "static/media/leaderboardBackground.cc10c33b.png": "/static/media/leaderboardBackground.cc10c33b.png",
+    "static/media/nftGif.4319f7af.gif": "/static/media/nftGif.4319f7af.gif",
+    "static/media/nftGif2.0ac47f9f.gif": "/static/media/nftGif2.0ac47f9f.gif",
+    "static/media/rarity.8462b33a.png": "/static/media/rarity.8462b33a.png",
+    "static/media/website_logo.30ee4a2b.png": "/static/media/website_logo.30ee4a2b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aadab0ed.js",
+    "static/js/2.3e384628.chunk.js",
+    "static/css/main.ac418490.chunk.css",
+    "static/js/main.0cf48802.chunk.js"
+  ]
+}
